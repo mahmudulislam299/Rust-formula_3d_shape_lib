@@ -10,8 +10,11 @@ use super::common_formula::Formula;
 #[derive(Debug)]
 pub struct Solid
 {
+	/// length of Solid
 	pub length: f32,
+	/// width of Solid
 	pub width: f32,
+	/// height of Solid
 	pub height: f32,
 }
 

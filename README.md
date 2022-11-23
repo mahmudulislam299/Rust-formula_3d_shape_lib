@@ -8,7 +8,7 @@
 [![Minimum rustc version](https://img.shields.io/badge/rustc-1.51+-lightgray.svg)](https://github.com/rust-random/rand#rust-version-requirements)
 
 
-This is a library for getting volume size and surface area fo different type 3D shape
+This is a library for getting volume size and surface area for different type 3D shape
 
 ## 3D shape are - 
  - Sphere
@@ -17,7 +17,7 @@ This is a library for getting volume size and surface area fo different type 3D 
 
 Documentation:
 
--   [API reference (docs.rs)](https://docs.rs/formula_3d_shape_lib/0.1.0/formula_3d_shape_lib/)
+-   [API reference (docs.rs)](https://docs.rs/formula_3d_shape_lib/0.1.1/formula_3d_shape_lib/)
 
 
 ## Usage
@@ -26,7 +26,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-formula_3d_shape_lib = "0.1.0"
+formula_3d_shape_lib = "0.1.1"
 ```
 
 
@@ -34,11 +34,9 @@ formula_3d_shape_lib = "0.1.0"
 
 ## Versions
 
-formula_3d_shape_libe is *mature* (suitable for general usage, with infrequent breaking releases
-which minimise breakage) but not yet at 1.0. We maintain compatibility with
-pinned versions of the Rust compiler (see below).
+formula_3d_shape_lib is *mature* (suitable for general usage, with infrequent breaking releases
+which minimise breakage)
 
-.
 
 
 # License

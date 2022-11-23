@@ -14,9 +14,9 @@ use std::f32::consts::PI;
 #[derive(Debug)]
 pub struct Cylinder
 {
-	/// radius and height are two member.
-	/// these take float32
+	/// radius of a Cylinder
 	pub radius: f32,
+	/// height of a Cylinder
 	pub height: f32,
 }
 

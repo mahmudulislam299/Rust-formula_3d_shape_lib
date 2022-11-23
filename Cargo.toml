@@ -1,12 +1,12 @@
 [package]
 name = "formula_3d_shape_lib"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.56"
 authors = ["Mahmudul Islam <mahmudulislam299@gmail.com>"]
 license = "MIT"
-repository = "https://github.com/mahmudulislam299/rust-square-series-crate"
-description = "this library will print square series and cube series"
+repository = "https://github.com/mahmudulislam299/Rust-formula_3d_shape_lib"
+description = "This is a library for getting volume size and surface area for different type 3D shape"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html

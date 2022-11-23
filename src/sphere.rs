@@ -11,6 +11,7 @@ use std::f32::consts::PI;
 #[derive(Debug)]
 pub struct Sphere
 {
+	/// radius of a Sphere
 	pub radius: f32,
 }
 
